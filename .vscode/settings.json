@@ -1,0 +1,7 @@
+{
+    "azureFunctions.deploySubpath": "functions/activity-functions",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectSubpath": "functions/activity-functions"
+}

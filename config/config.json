@@ -1,0 +1,11 @@
+{
+    "config": [
+      {
+        "stepIndex": 1,
+        "type": "FetchDataFromApi",
+        "metaData": {
+            "groupingmethods": ["region","languages","translations","currencies"]
+        }
+      }
+    ]
+}
